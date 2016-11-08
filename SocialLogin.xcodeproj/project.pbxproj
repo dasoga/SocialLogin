@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1B1667F4B6A80AD467767281 /* Pods_SocialLogin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D161302558FA06B48F3653C /* Pods_SocialLogin.framework */; };
+		2C46F98B1DD1765B00EBED91 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2C46F98A1DD1765B00EBED91 /* GoogleService-Info.plist */; };
 		2CC1904E1DC45360006E2419 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC1904D1DC45360006E2419 /* AppDelegate.swift */; };
 		2CC190501DC45360006E2419 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC1904F1DC45360006E2419 /* ViewController.swift */; };
 		2CC190531DC45360006E2419 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC190511DC45360006E2419 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C46F98A1DD1765B00EBED91 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2CC1904A1DC45360006E2419 /* SocialLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CC1904D1DC45360006E2419 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CC1904F1DC45360006E2419 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				2CC190541DC45360006E2419 /* Assets.xcassets */,
 				2CC190561DC45360006E2419 /* LaunchScreen.storyboard */,
 				2CC190591DC45360006E2419 /* Info.plist */,
+				2C46F98A1DD1765B00EBED91 /* GoogleService-Info.plist */,
 			);
 			path = SocialLogin;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CC190581DC45360006E2419 /* LaunchScreen.storyboard in Resources */,
+				2C46F98B1DD1765B00EBED91 /* GoogleService-Info.plist in Resources */,
 				2CC190551DC45360006E2419 /* Assets.xcassets in Resources */,
 				2CC190531DC45360006E2419 /* Main.storyboard in Resources */,
 			);
